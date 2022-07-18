@@ -25,13 +25,17 @@ sitelen pona是道本语的语素书写文字。sitelen pona的每一个字符�
 
 ## Helping out / 协助完善
 
-Of course, my font making skills are not perfect, so mistakes are hard to avoid. If you have any problems or suggestions about the Sitelen Pona characters in linja waso, please make an issue in this repository.
+Of course, my font making skills are not perfect, so mistakes are hard to avoid. If you have any problems or suggestions about the Sitelen Pona characters in linja waso, please either:
+- make an issue in this repository, or
+- contact me in Discord at ItMarki#2686, preferably in a Toki-Pona-related server where I am in.
 
 As I have no control over the other characters, if you have any problems or suggestions about them, please go to the [repository for LXGW Wenkai](https://github.com/lxgw/LxgwWenKai).
 
 ----
 
-当然，我做字体并不是十全十美，所以难免犯错误。如果您对linja waso的sitelen pona字体有任何疑问或建议，请在这个仓库里创建一个issue。
+当然，我做字体并不是十全十美，所以难免犯错误。如果您对linja waso的sitelen pona字体有任何疑问或建议，请：
+- 在仓库里创建一个issue，或
+- 在Discord联络我（ItMarki#2686），最好在有我的道本语服务器里。
 
 由于我管不住其他字符，如果您对它们有任何疑问或建议，请移步[霞鹜文楷的仓库](https://github.com/lxgw/LxgwWenKai)。
 
