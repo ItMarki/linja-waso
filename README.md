@@ -5,7 +5,7 @@ The font is named "linja waso" because "鹜", a character in the Chinese name of
 
 ----
 
-[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)的衍生字体，支持sitelen pona。
+[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)的衍生字体，支持 sitelen pona。
 
 这个字体之所以称为 linja waso，是因为“霞鹜文楷”中的“鹜”是“鸭子”的意思，而道本语中的“waso”可以指任何鸟或有翼动物。
 
