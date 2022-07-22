@@ -23,6 +23,8 @@ sitelen pona 是道本语的语素书写文字。sitelen pona 的每一个字符
 
 ## Preview / 预览
 
+![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%201.png?raw=true)
+
 ## Helping out / 协助完善
 
 Of course, my font making skills are not perfect, so mistakes are hard to avoid. If you have any problems or suggestions about the Sitelen Pona characters in linja waso, please either:
