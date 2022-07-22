@@ -1,5 +1,5 @@
 # linja waso
-A derivative of [LXGW Wenkai](https://github.com/lxgw/LxgwWenKai) with Sitelen Pona support. 
+A derivative of [LXGW Wenkai](https://github.com/lxgw/LxgwWenKai) with sitelen pona support. 
 
 The font is named "linja waso" because "鹜", a character in the Chinese name of the original font (霞鹜文楷), means "duck", and "waso" in Toki Pona can mean any bird or winged animal.
 
@@ -9,11 +9,11 @@ The font is named "linja waso" because "鹜", a character in the Chinese name of
 
 这个字体之所以称为 linja waso，是因为“霞鹜文楷”中的“鹜”是“鸭子”的意思，而道本语中的“waso”可以指任何鸟或有翼动物。
 
-## What is Toki Pona and Sitelen Pona? / 什么是道本语和 sitelen pona？
+## What is Toki Pona and sitelen pona? / 什么是道本语和 sitelen pona？
 
 [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona) is a minimalist constructed language (conlang) made by Sonja Lang, with a simple phonology and vocabulary. It is generally recognized by its speakers to have roughly 130 words.
 
-Sitelen Pona is a logographic script for Toki Pona. Each character in Sitelen Pona represents one word in Toki Pona. Characters in Sitelen Pona are usually pictographic or ideographic.
+sitelen pona is a logographic script for Toki Pona. Each character in sitelen pona represents one word in Toki Pona. Characters in sitelen pona are usually pictographic or ideographic.
 
 ----
 
@@ -27,7 +27,7 @@ sitelen pona 是道本语的语素书写文字。sitelen pona 的每一个字符
 
 ## Helping out / 协助完善
 
-Of course, my font making skills are not perfect, so mistakes are hard to avoid. If you have any problems or suggestions about the Sitelen Pona characters in linja waso, please either:
+Of course, my font making skills are not perfect, so mistakes are hard to avoid. If you have any problems or suggestions about the sitelen pona characters in linja waso, please either:
 - make an issue in this repository, or
 - contact me in Discord at ItMarki#2686, preferably in a Toki-Pona-related server where I am in.
 
