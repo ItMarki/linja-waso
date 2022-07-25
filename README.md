@@ -47,11 +47,13 @@ As I have no control over the other characters, if you have any problems or sugg
 
 - Make format controls, such as pi-extension and cartouches.
 - Improve glyphs as much as possible.
+- Make Bold and Light weights.
 
 ----
 
-- 制造格式控制符，例如“pi”延长和专名框。
+- 制作格式控制符，例如“pi”延长和专名框。
 - 尽力改善字形。
+- 制作 Bold 和 Light 字重。
 
 ## License / 授权许可
 
