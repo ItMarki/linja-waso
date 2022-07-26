@@ -28,6 +28,7 @@ sitelen pona 是道本语的语素书写文字。sitelen pona 的每一个字符
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%203.png?raw=true)
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%204.png?raw=true)
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%205.png?raw=true)
+![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%206.png?raw=true)
 
 ## Helping out / 协助完善
 
