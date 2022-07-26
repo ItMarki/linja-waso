@@ -26,6 +26,8 @@ sitelen pona 是道本语的语素书写文字。sitelen pona 的每一个字符
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%201.png?raw=true)
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%202.png?raw=true)
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%203.png?raw=true)
+![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%204.png?raw=true)
+![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%205.png?raw=true)
 
 ## Helping out / 协助完善
 
@@ -45,15 +47,15 @@ As I have no control over the other characters, if you have any problems or sugg
 
 ## Plans / 计划
 
-- Make format controls, such as pi-extension and cartouches.
+- Add more ligatures.
 - Improve glyphs as much as possible.
-- Make Bold and Light weights.
+- Add Bold and Light weights.
 
 ----
 
-- 制作格式控制符，例如“pi”延长和专名框。
+- 新增更多合字。
 - 尽力改善字形。
-- 制作 Bold 和 Light 字重。
+- 新增 Bold 和 Light 字重。
 
 ## License / 授权许可
 
