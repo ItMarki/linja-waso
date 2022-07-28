@@ -1,0 +1,35 @@
+# List of ligatures / 合字列表
+
+- ijo ale
+- ijo ante
+- ijo ike
+- ijo lili
+- ijo mute
+- ijo pona
+- ijo sama
+- ijo sin
+- ilo nanpa
+- jan ale/ali
+- jan ante
+- jan ike
+- jan lili
+- jan mute
+- jan olin
+- jan pona
+- jan sama
+- jan sin
+- jan sona
+- jan suli
+- jan toki
+- linja pona
+- linja sike
+- linja waso
+- lipu tenpo
+- nimi sin
+- pilin ike
+- pilin pona
+- sitelen ike
+- sitelen pona
+- sitelen sitelen
+- toki ike
+- toki pona
