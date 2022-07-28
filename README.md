@@ -1,4 +1,5 @@
 # linja waso
+
 A derivative of [LXGW Wenkai](https://github.com/lxgw/LxgwWenKai) with sitelen pona support. 
 
 The font is named "linja waso" because "鹜", a character in the Chinese name of the original font (霞鹜文楷), means "duck", and "waso" in Toki Pona can mean any bird or winged animal.
@@ -30,6 +31,14 @@ sitelen pona 是道本语的语素书写文字。sitelen pona 的每一个字符
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%205.png?raw=true)
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%206.png?raw=true)
 
+### List of ligatures / 合字列表
+
+See the list [here](/ligatures.md).
+
+----
+
+按[此](/ligatures.md)参见列表。
+
 ## Helping out / 协助完善
 
 Of course, my font making skills are not perfect, so mistakes are hard to avoid. If you have any problems or suggestions about the sitelen pona characters in linja waso, please either:
@@ -50,13 +59,11 @@ As I have no control over the other characters, if you have any problems or sugg
 
 - Add more ligatures.
 - Improve glyphs as much as possible.
-- Add Bold and Light weights.
 
 ----
 
 - 新增更多合字。
 - 尽力改善字形。
-- 新增 Bold 和 Light 字重。
 
 ## License / 授权许可
 
