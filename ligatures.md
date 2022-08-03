@@ -21,10 +21,13 @@
 - jan sona
 - jan suli
 - jan toki
+- laso kasi
+- laso sewi
 - linja pona
 - linja sike
 - linja waso
 - lipu tenpo
+- ma kasi
 - nimi sin
 - pilin ike
 - pilin pona
