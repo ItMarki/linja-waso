@@ -30,6 +30,8 @@ sitelen pona 是道本语的语素书写文字。sitelen pona 的每一个字符
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%204.png?raw=true)
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%205.png?raw=true)
 ![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%206.png?raw=true)
+![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%207.png?raw=true)
+![a](https://github.com/ItMarki/linja-waso/blob/main/images/linja%20waso%208.png?raw=true)
 
 ### List of ligatures / 合字列表
 
